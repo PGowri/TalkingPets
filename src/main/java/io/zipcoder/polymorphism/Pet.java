@@ -1,7 +1,7 @@
 package io.zipcoder.polymorphism;
 
 public abstract class Pet {
-    String petName;
+    String petName = "Bob";
     public abstract String speak();
 
     public String getPetName() {
