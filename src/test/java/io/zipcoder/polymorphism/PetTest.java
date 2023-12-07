@@ -26,4 +26,5 @@ public class PetTest extends TestCase {
         //then
         Assert.assertEquals(expected, actual);
     }
+
 }
